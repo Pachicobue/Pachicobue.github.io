@@ -1,0 +1,10 @@
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+[[main]]
+  name = "Library"
+  url = "https://pachicobue.github.io/algolib/"
+  weight = 20
+
